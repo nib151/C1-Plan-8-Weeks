@@ -11,7 +11,7 @@ Bienvenido/a al plan bimestral. Aquí tienes el contenido organizado por semanas
 ## 🗂️ Índice
 
 - [Semana 1](week1-plan.md)
--- [Consejos de estudio](week1-tips.md)
+- [Consejos de estudio](week1-tips.md)
 - [Semana 2](week2-plan.md)
 - 
 - [Semana 3](week3-plan.md)
