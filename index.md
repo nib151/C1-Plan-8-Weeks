@@ -31,17 +31,18 @@ Bienvenido/a al plan bimestral. Aquí tienes el contenido organizado por semanas
 
 ## ℹ️ Cómo usar estos apuntes
 
-- Cada semana contiene teoría, ejemplos y ejercicios.
+- Cada semana contiene una planificación para trabajar teoría y las distintas destrezas.
 - Puedes navegar haciendo clic en cada enlace.
 - Recomendado seguir el orden semanal.
+- Incluy consejos útiles para el estudio.
 
 ---
 
 ## 📌 Estructura del curso
 
 - Introducción progresiva a los contenidos
-- Actividades prácticas por semana
-- Evaluación continua
+- Actividades prácticas para cada día de la semana
+- Progreso continuo
 
 ---
 
