@@ -48,3 +48,9 @@ Bienvenido/a al plan bimestral. Aquí tienes el contenido organizado por semanas
 ## 🚀 Inicio
 
 Empieza por la **Semana 1** y avanza en orden.
+
+<div style="background-color:#333;padding:20px;border-radius:10px;">
+  <h1 style="color:white;text-align:right;margin:0;">
+    By NIB
+  </h1>
+</div>
